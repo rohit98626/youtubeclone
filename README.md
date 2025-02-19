@@ -1,4 +1,3 @@
-YOUTUBECLONE 
+YOUTUBE CLONE 
 
-It is a simple static Youtube clone which i created when 
-i'm begineer of learning HTML CSS basics
+I built this simple static YouTube clone as a beginner project while learning the fundamentals of HTML and CSS.
